@@ -31,7 +31,7 @@ public class HitungFactorial {
         faktor = hitungFaktorial(masuk);
         System.out.println("");
         System.out.println ("Nilai Faktorial Dari "+ masuk +"! Adalah "+ faktor);
-        System.out.println(" 2020 Java 205314020 ");
+        System.out.println(" 2020 Java Skuy");
         
     }
     
